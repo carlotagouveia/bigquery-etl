@@ -27,7 +27,7 @@ This ETL pipeline project extracts movie data from a MySQL database, processes i
 
 ### 1. Clone the Repository
 ```sh
-git clone [<repository_url>](https://github.com/carlotagouveia/bigquery-etl.git)
+git clone https://github.com/carlotagouveia/bigquery-etl.git
 cd etl_pipeline
 ```
 
