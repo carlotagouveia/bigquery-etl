@@ -5,9 +5,9 @@
 This project is an ETL (Extract, Transform, Load) pipeline that extracts movie data from a MySQL database, processes it to summarize annual movie statistics, and loads the transformed data into Google BigQuery.
 
 ## Features
-- Extracts data from a MySQL database using SQLAlchemy.
+- Extracts data from a **MySQL** database using **SQLAlchemy**.
 - Transforms the data by calculating average movie durations, ratings, and categorizing movie years.
-- Loads the transformed data into a BigQuery table.
+- Loads the transformed data into a **BigQuery** table.
 - Implements robust error handling and logging for better debugging.
 - Modular structure for maintainability and scalability.
 
