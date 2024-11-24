@@ -2,7 +2,7 @@
 
 # ETL Pipeline for Annual Movie Summary
 
-This project is an ETL (Extract, Transform, Load) pipeline that extracts movie data from a MySQL database, processes it to summarize annual movie statistics, and loads the transformed data into Google BigQuery.
+This ETL pipeline project extracts movie data from a MySQL database, processes it to summarize annual movie statistics, and loads the transformed data into Google BigQuery.
 
 ## Features
 - Extracts data from a **MySQL** database using **SQLAlchemy**.
@@ -27,7 +27,7 @@ This project is an ETL (Extract, Transform, Load) pipeline that extracts movie d
 
 ### 1. Clone the Repository
 ```sh
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/carlotagouveia/bigquery-etl.git)
 cd etl_pipeline
 ```
 
