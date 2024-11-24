@@ -1,4 +1,4 @@
-# BigQuery ETL exercise
+# *BigQuery ETL exercise*
 
 # ETL Pipeline for Annual Movie Summary
 
